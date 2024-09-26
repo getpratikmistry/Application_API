@@ -1,0 +1,4 @@
+# UI master branch push changes
+
+trigger:
+- master
